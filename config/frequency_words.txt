@@ -1,8 +1,11 @@
 小米
 
 oppo
-
 vivo
+
+阿里
+alibaba
+qwen
 
 华为
 鸿蒙
